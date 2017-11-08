@@ -5,4 +5,4 @@ function tribonacci(signature, n){
   return signature.slice(0, n);
 }
 
-tribonacci([0, 0, 1], 6);
+tribonacci([0, 0, 1], 76);
